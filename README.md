@@ -5,6 +5,13 @@ SentiScope is a lightweight yet expressive AI-powered sentiment analysis app tha
 🚀 Try the app here: [SentiScope on Hugging Face Spaces](https://huggingface.co/spaces/Ruusheka/SentiScope)
 
 ---
+## 🖼️ Screenshot
+
+> 📸 _Home screen preview of SentiScope in action:_
+
+![SentiScope Screenshot](assets/pic1.png)
+
+---
 
 ## ✨ Features
 
@@ -37,14 +44,6 @@ SentiScope is a lightweight yet expressive AI-powered sentiment analysis app tha
    - Predicted sentiment label
    - Model confidence level with animated bar
    - Golden glowing UI for aesthetic feedback
-
----
-
-## 🖼️ Screenshot
-
-> 📸 _Home screen preview of SentiScope in action:_
-
-![SentiScope Screenshot](assets/pic1.png)
 
 ---
 
